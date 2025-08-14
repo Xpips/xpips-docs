@@ -9,10 +9,11 @@ Part of the XPIPS multi-service platform.
 This repository is part of the XPIPS ecosystem:
 
 - **xpips-backend** - Node.js API server
-- **xpips-web** - Next.js landing page  
+- **xpips-worker-server** - Node.js worker server
+- **xpips-web** - Next.js landing page
+- **xpips-web-v2** - Next.js landing page (v2)
 - **xpips-dashboard** - Next.js trader dashboard
 - **xpips-blog-cms** - Content management system
-- **xpips-scripts** - Deployment automation
 - **xpips-docs** - Documentation and guides
 - **xpips-data-samples** - API examples and test data
 
